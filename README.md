@@ -26,7 +26,7 @@ iris.data: The dataset in CSV format.
 
 iris.names: Description of the dataset.
 
-clustering.ipynb: Jupyter notebook for clustering the Iris dataset.
+clustering.py: Python file for clustering the Iris dataset.
 
 ## Dependencies
 
@@ -42,7 +42,7 @@ scikit-learn
 
 ## Running the Code
 
-To run the code, open clustering.ipynb in Jupyter notebook and run the cells. The output plots will be displayed in the notebook.
+To run the code, open clustering.py. The output plots will be displayed.
 
 ## References
 
